@@ -1,0 +1,6 @@
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%207/Laboratorium%207%20%208%20.zip)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%207/zad61.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%207/zad62.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%207/zad63.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%207/zad64.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%207/zad65.py)

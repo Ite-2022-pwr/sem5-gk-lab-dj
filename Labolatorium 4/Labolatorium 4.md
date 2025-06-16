@@ -1,0 +1,6 @@
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%204/python%20c++%20(2).zip)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%204/zad31.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%204/zad32.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%204/zad33.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%204/zad34.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%204/zad35.py)

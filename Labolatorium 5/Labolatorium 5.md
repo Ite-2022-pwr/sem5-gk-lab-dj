@@ -1,0 +1,6 @@
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%205/Laboratorium%20nr%205%20%20Oświetlanie%20scen.zip)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%205/zad41.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%205/zad42.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%205/zad43.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%205/zad44.py)
+![](/Notatki/Semestr%205/Grafika%20komputerowa%20i%20komunikacja%20człowiek-komputer/Labolatoria/Labolatorium%205/zad45.py)
